@@ -36,7 +36,7 @@ The system combines embedded hardware and lightweight AI to identify fire outbre
 
 ## 🙏 Acknowledgments
 - Mr. John Babalola – Project Supervisor  
-- Prof. Komolafe – Academic Advisor  
+- Prof. Komolafe – Project Supervisor  
 
 
 
